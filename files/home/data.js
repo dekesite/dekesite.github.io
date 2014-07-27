@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"home.html",
-  "generationDate":new Date(1406457009613.67),
+  "generationDate":new Date(1406457433208.9),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -348,7 +348,7 @@
               "x":450,
               "y":404},
             "size":{
-              "width":212,
+              "width":290,
               "height":16}},
           "adaptiveStyles":{
             "a":{
@@ -390,7 +390,7 @@
                   "x":450,
                   "y":404},
                 "size":{
-                  "width":212,
+                  "width":290,
                   "height":16}},
               "adaptiveStyles":{
                 "a":{
@@ -1141,21 +1141,21 @@
                 "x":-85,
                 "y":1107}}},
           "interactionMap":{
-            "onMouseHover":{
-              "description":"OnMouseHover",
+            "onMouseOver":{
+              "description":"OnMouseOver",
               "cases":[{
                   "description":"Case 1",
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"fadeWidget",
-                      "description":"Show button fade 200 ms",
+                      "description":"Show button fade 100 ms",
                       "objectsToFades":[{
                           "objectPath":["60677a87d5e642a8b9f672a9410027dc"],
                           "fadeInfo":{
                             "fadeType":"show",
                             "options":{
                               "easing":"fade",
-                              "duration":200,
+                              "duration":100,
                               "showType":"none"}}}]}]}]}},
           "scrollbars":"none",
           "fitToContent":true,
@@ -1690,14 +1690,30 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"fadeWidget",
-                      "description":"Hide button fade 200 ms",
+                      "description":"Hide button fade 100 ms",
                       "objectsToFades":[{
                           "objectPath":["60677a87d5e642a8b9f672a9410027dc"],
                           "fadeInfo":{
                             "fadeType":"hide",
                             "options":{
                               "easing":"fade",
-                              "duration":200,
+                              "duration":100,
+                              "showType":"none"}}}]}]}]},
+            "onMouseHover":{
+              "description":"OnMouseHover",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"Show button fade 100 ms",
+                      "objectsToFades":[{
+                          "objectPath":["60677a87d5e642a8b9f672a9410027dc"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "easing":"fade",
+                              "duration":100,
                               "showType":"none"}}}]}]}]}},
           "scrollbars":"none",
           "fitToContent":false,
@@ -2204,7 +2220,7 @@
               "x":450,
               "y":430},
             "size":{
-              "width":202,
+              "width":290,
               "height":16}},
           "adaptiveStyles":{
             "a":{
@@ -2240,7 +2256,7 @@
                   "x":450,
                   "y":430},
                 "size":{
-                  "width":202,
+                  "width":290,
                   "height":16}},
               "adaptiveStyles":{
                 "a":{
