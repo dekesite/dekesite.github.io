@@ -19,21 +19,9 @@
         "type":"Wireframe",
         "url":"home.html",
         "children":[{
-            "pageName":"ARC more1",
+            "pageName":"娜塔莉波曼",
             "type":"Wireframe",
-            "url":"arc_more1.html"},
-{
-            "pageName":"ARC more2",
-            "type":"Wireframe",
-            "url":"arc_more2.html"},
-{
-            "pageName":"ARC more3",
-            "type":"Wireframe",
-            "url":"arc_more3.html"},
-{
-            "pageName":"gif more",
-            "type":"Wireframe",
-            "url":"gif_more.html"}]}]},
+            "url":"娜塔莉波曼.html"}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{
@@ -44,11 +32,11 @@
     "condition":"<="},
   "adaptiveViews":[{
       "id":"a",
-      "name":"Landscape Tablet",
+      "name":"Large Display",
       "size":{
-        "width":1024,
+        "width":1200,
         "height":0},
-      "condition":"<="},
+      "condition":">="},
 {
       "id":"b",
       "name":"Portrait Tablet",
@@ -56,7 +44,7 @@
       "size":{
         "width":768,
         "height":0},
-      "condition":"<="},
+      "condition":">="},
 {
       "id":"c",
       "name":"Landscape Phone",
@@ -64,7 +52,7 @@
       "size":{
         "width":480,
         "height":0},
-      "condition":"<="}],
+      "condition":">="}],
   "stylesheet":{
     "defaultStyles":{
       "buttonShape":{
