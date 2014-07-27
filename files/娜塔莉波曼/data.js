@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"娜塔莉波曼.html",
-  "generationDate":new Date(1406457433472.91),
+  "generationDate":new Date(1406457671351.52),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

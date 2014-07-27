@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"home.html",
-  "generationDate":new Date(1406457433208.9),
+  "generationDate":new Date(1406457670956.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -348,7 +348,7 @@
               "x":450,
               "y":404},
             "size":{
-              "width":290,
+              "width":360,
               "height":16}},
           "adaptiveStyles":{
             "a":{
@@ -390,7 +390,7 @@
                   "x":450,
                   "y":404},
                 "size":{
-                  "width":290,
+                  "width":360,
                   "height":16}},
               "adaptiveStyles":{
                 "a":{
@@ -2220,7 +2220,7 @@
               "x":450,
               "y":430},
             "size":{
-              "width":290,
+              "width":360,
               "height":16}},
           "adaptiveStyles":{
             "a":{
@@ -2256,7 +2256,7 @@
                   "x":450,
                   "y":430},
                 "size":{
-                  "width":290,
+                  "width":360,
                   "height":16}},
               "adaptiveStyles":{
                 "a":{
@@ -2287,7 +2287,7 @@
               "x":450,
               "y":457},
             "size":{
-              "width":290,
+              "width":360,
               "height":16}},
           "adaptiveStyles":{
             "a":{
@@ -2323,7 +2323,7 @@
                   "x":450,
                   "y":457},
                 "size":{
-                  "width":290,
+                  "width":360,
                   "height":16}},
               "adaptiveStyles":{
                 "a":{
